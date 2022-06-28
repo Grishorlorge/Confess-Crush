@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Bé iu của anh',
     introDesc: `Nhớ anh hong ???`,
     btnIntro: 'Cóaaaa',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    title: 'Còn iu anh hong :))',
     desc: 'Sau 1 tháng còn muốn chơi zới anh hong :)) ',
     btnYes: 'Còn nha :33',
     btnNo: 'Hong nha , bái baii :))',
